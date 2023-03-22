@@ -1,0 +1,4 @@
+test.txt: test file
+ useless file for test only
+test2.txt:
+test3.txt: some message

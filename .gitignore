@@ -4,6 +4,11 @@
 *.dll
 *.so
 *.dylib
+build/*
+
+# vim
+*.swp
+*.swo
 
 # Test binary, built with `go test -c`
 *.test
